@@ -1,0 +1,14 @@
+---
+title: "HelloWorld"
+author: "amtanciongco"
+date: "6/11/2021"
+---
+
+## This is a markdown file
+
+```{r}
+trialvector_x <- 1:10
+trialvector_y <- trialvector_x*2
+plot(trialvector_x, trialvector_y, main="Trial Plot")
+```
+
